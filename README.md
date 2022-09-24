@@ -1,1 +1,1 @@
-# QA-Havid-Fundamental
+# Repository for Final Project of QA Fundamental Program
